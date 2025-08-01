@@ -55,4 +55,5 @@ combined = pd.concat([actual_trimmed, forecast_trimmed], ignore_index=True)
 # Export to CSV for Power BI
 combined.to_csv("solar_combined_forecast.csv", index=False)
 
-print("✅ Forecast completed and exported as 'solar_combined_forecast.csv'")
+print("Forecast completed and exported as 'solar_combined_forecast.csv'")
+
