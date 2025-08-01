@@ -28,7 +28,7 @@ The Power BI dashboard includes:
 - Clear axis labels, legend, and layout across two report pages
 - A simple design focused on readability and storytelling
 
-> ![Dashboard Preview](solar_forecast_dashboard_preview.png)
+![Dashboard Preview](solar_forecast_dashboard_preview.png)
 
 
 ## 💡 Key Insights
@@ -52,6 +52,8 @@ The Power BI dashboard includes:
 - How to communicate results visually using Power BI
 
 ## 📦 Optional Dependencies
+
+📁 To view the Power BI dashboard, download the `.pbix` file above and open it in Power BI Desktop.
 
 If you want to run the forecasting script:
 
